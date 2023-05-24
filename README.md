@@ -1,20 +1,20 @@
 # Advanced Javascript Learnings 
 
 Contents:
-- JS Revision
-- Event Loop / task queue / call stack
-- http1 vs http2
-- callbacks 
-- Synchronous vs Asynchronous execution in JS
-- Closures and currying 
-- Promises and promise chaining
-- Data Structures
-- ES6 data structures: maps and sets
-- Promise.all and Promise.allSettled
-- DOM manipulation
-- Comp Sci fundamentals
-- Hoisting 
-- The Scope Chain
+- [JS Revision](#js-revision)
+- [Event Loop / task queue / call stack](#event-loop--task-queue--call-stack)
+- [http1 vs http2](#http1-vs-http2)
+- [callbacks](#callbacks)
+- [Synchronous vs Asynchronous execution in JS](#synchronous-vs-asynchronous-execution)
+- [Closures and currying](#closures)
+- [Promises and promise chaining](#promise-chaining)
+- [Data Structures](#data-structures)
+- [ES6 data structures: maps and sets](#es6-data-structures-maps-and-sets)
+- [Promise.all and Promise.allSettled](#promiseall-promiseallsettled)
+- [DOM manipulation](#dom-manipulation-create-a-html--js-stack-from-scratch)
+- [Comp Sci fundamentals](#comp-sci-fundamentals)
+- [Hoisting](#hoisting)
+- [The Scope Chain](#the-scope-chain)
 
 ## JS Revision:
 - https://github.com/Mark-Cooper-Janssen-Vooles/javascript
